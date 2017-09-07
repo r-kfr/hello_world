@@ -1,4 +1,2 @@
 # hello_world
-Tutorial
-
-A bit about myself
+Read a bit about myself :-)
